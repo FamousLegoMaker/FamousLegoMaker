@@ -6,7 +6,7 @@
 <ul> <b><a href="https://famouslegomaker.github.io/king-bob-board-game-website/">King Bob Board Game</a></b> </ul>
 <ul> <b><a href="https://famouslegomaker.github.io/literacy-coalition/">Literacy Coalition</a></b></ul>
 <ul> <b><a href="https://famouslegomaker.github.io/Trinity-Life-Ministry/">Trinity Life Ministry</a></b></ul>
-<ul> <b><a href="https://github.com/FamousLegoMaker/Cass-County-Community-Foundation">Cass County Community Foundation</a></b> </ul>
+<ul> <b><a href="https://famouslegomaker.github.io/Cass-County-Community-Foundation/">Cass County Community Foundation</a></b> </ul>
 </ol>
   
 
