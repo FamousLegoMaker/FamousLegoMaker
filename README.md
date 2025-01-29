@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael Larios, a <a href="https://www.linkedin.com/in/michael-larios-22b142251/">Digital Designer and Developer Professional</a></h1>
+<h1>Hi, I'm Michael Larios, a <a href="https://www.linkedin.com/in/michael-larios-22b142251/">Digital Designer and IT Professional</a></h1>
 
 <h2> Website Projects:</h2>
 <ol>
